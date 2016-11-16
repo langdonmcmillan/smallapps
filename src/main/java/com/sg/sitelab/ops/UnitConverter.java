@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.sg.sitelab.ops;
+package com.sg.smallapps.ops;
 
 import java.util.HashMap;
 import javax.validation.constraints.NotNull;

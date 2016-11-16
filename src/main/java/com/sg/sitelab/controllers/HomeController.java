@@ -1,12 +1,12 @@
-package com.sg.sitelab.controllers;
+package com.sg.smallapps.controllers;
 
-import com.sg.sitelab.daos.ConverterDAO;
-import com.sg.sitelab.ops.Factorizer;
-import com.sg.sitelab.ops.FlooringCalculator;
-import com.sg.sitelab.ops.InterestCalculator;
-import com.sg.sitelab.ops.LuckySevens;
-import com.sg.sitelab.ops.TipCalculator;
-import com.sg.sitelab.ops.UnitConverter;
+import com.sg.smallapps.daos.ConverterDAO;
+import com.sg.smallapps.ops.Factorizer;
+import com.sg.smallapps.ops.FlooringCalculator;
+import com.sg.smallapps.ops.InterestCalculator;
+import com.sg.smallapps.ops.LuckySevens;
+import com.sg.smallapps.ops.TipCalculator;
+import com.sg.smallapps.ops.UnitConverter;
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
 import org.springframework.stereotype.Controller;

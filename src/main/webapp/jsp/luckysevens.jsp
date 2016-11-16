@@ -14,7 +14,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Lucky Sevens</title>
         <link href="${pageContext.request.contextPath}/css/bootstrap.min.css" rel="stylesheet">
-        <link href="${pageContext.request.contextPath}/css/SiteLabCSS.css" rel="stylesheet">
+        <link href="${pageContext.request.contextPath}/css/SmallAppsCSS.css" rel="stylesheet">
         <link href="${pageContext.request.contextPath}/css/LuckySevensCSS.css" rel="stylesheet">
         <link rel="shortcut icon" href="${pageContext.request.contextPath}/img/icon.png">
     </head>

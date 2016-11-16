@@ -1,4 +1,4 @@
-package com.sg.sitelab.ops;
+package com.sg.smallapps.ops;
 
 import java.util.Random;
 import javax.validation.constraints.NotNull;

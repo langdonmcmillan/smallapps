@@ -1,4 +1,4 @@
-package com.sg.sitelab.ops;
+package com.sg.smallapps.ops;
 
 import java.util.ArrayList;
 import java.util.HashMap;

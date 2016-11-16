@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.sg.sitelab.ops;
+package com.sg.smallapps.ops;
 
-import com.sg.sitelab.models.InterestCalculatorYearInformation;
+import com.sg.smallapps.models.InterestCalculatorYearInformation;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import javax.validation.constraints.NotNull;
