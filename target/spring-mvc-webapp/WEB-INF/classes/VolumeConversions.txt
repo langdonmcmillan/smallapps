@@ -1,0 +1,19 @@
+US Gallon::0.264
+US Quart::1.057
+US Pint::2.11
+US Cup::4.167
+US Fluid Ounce::33.814
+US Tablespoon::67.628
+US Teaspoon::202.884
+Cubic Meter::0.001
+Liter::1
+Milliliter::1000
+Imperial Gallon::0.22
+Imperial Quart::0.88
+Imperial Pint::1.76
+Imperial Cup::3.52
+Imperial Fluid Ounce::35.195
+Imperial Tablespoon::56.312
+Imperial Teaspoon::168.936
+Cubic Foot::0.0353
+Cubic Inch::61.0237

@@ -1,0 +1,10 @@
+Nanometer::1e9
+Micrometer::1e6
+Millimeter::1000
+Centimeter::100
+Meter::1
+Kilometer::0.001
+Inch::39.37
+Foot::3.281
+Yard::1.094
+Mile::0.000621

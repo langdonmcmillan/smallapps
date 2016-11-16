@@ -1,0 +1,70 @@
+.swcColor {
+   background-color: #b21f28; 
+   color: whitesmoke;
+}
+
+.errors {
+    color: #b21f28;
+}
+
+.rounded {
+    border-radius: 10px;
+    padding: 1%;
+}
+
+body, .row {
+    background-color: #333333;
+}
+
+.whiteRow {
+    background-color: whitesmoke;
+}
+
+div {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
+.input-icon {
+  position: relative;
+}
+
+.input-icon > i {
+  position: absolute;
+  display: block;
+  transform: translate(0, -50%);
+  top: 50%;
+  pointer-events: none;
+  width: 25px;
+  text-align: center;
+	font-style: normal;
+}
+
+.input-icon > input {
+  padding-left: 25px;
+	padding-right: 0;
+}
+
+.input-icon-right > i {
+  right: 0;
+}
+
+.input-icon-right > input {
+  padding-left: 0;
+  padding-right: 25px;
+  text-align: right;
+}
+
+.vcenter {
+    vertical-align: middle;
+}
+

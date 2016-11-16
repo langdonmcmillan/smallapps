@@ -1,0 +1,10 @@
+Metric Ton::0.001
+Kilogram::1.0
+Gram::1000
+Milligram::1e6
+Microgram::1e9
+Imperial Ton::0.000984
+US Ton::0.0011
+Stone::0.157
+Pound::2.2
+Ounce::35.274
